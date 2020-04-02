@@ -28,4 +28,4 @@ https://www.weather.gov/asos/
 
 
 # Final Deliverable
-The report and code should be captured in your own github.  There is no workaround this requirement.  The report should be written as an .md file.  The code should be checked into github.
+The report and code should be captured in your own github.  There is no working around this requirement.  The report should be written as an .md file.  The code should be checked into github.
